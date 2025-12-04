@@ -18,17 +18,17 @@ Both are required to fully reproduce the results reported in the paper.
 ## 📁 Repository Structure
 .
 ├── Model Python/<br>
-│ ├── KD/ # Knowledge Distillation training and evaluation
-│ ├── Pruning/ # Magnitude-based pruning experiments
-│ ├── PTQ/ # Post-Training Quantization (weight-only & integer-only)
-│ └── QAT/ # Quantization-Aware Training experiments
-│
-└── Resource Usage Experiment/
-├── KD/ # RPi deployability tests for SM_TFLite
-├── Pruning/ # RPi deployability tests for TM_Prune
-├── PTQ/ # RPi deployability tests for TM_PTQ & TM_PTQ_INT
-└── QAT/ # RPi deployability tests for TM_QAT
-
+│ ├── KD/ # Knowledge Distillation training and evaluation<br>
+│ ├── Pruning/ # Magnitude-based pruning experiments<br>
+│ ├── PTQ/ # Post-Training Quantization (weight-only & integer-only)<br>
+│ └── QAT/ # Quantization-Aware Training experiments<br>
+│<br>
+└── Resource Usage Experiment/<br>
+├── KD/ # RPi deployability tests for SM_TFLite<br>
+├── Pruning/ # RPi deployability tests for TM_Prune<br>
+├── PTQ/ # RPi deployability tests for TM_PTQ & TM_PTQ_INT<br>
+└── QAT/ # RPi deployability tests for TM_QAT<br>
+<br>
 
 ---
 
@@ -140,5 +140,6 @@ note = {Submitted version}
 - The resource-usage tests replicate the conditions reported in Section 6 of the paper.
 
 ---
+
 
 
