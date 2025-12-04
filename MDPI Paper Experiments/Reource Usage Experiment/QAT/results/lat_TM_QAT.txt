@@ -1,0 +1,8 @@
+Loading test data model time:  0.0021173954010009766 secs
+X: (86, 26, 1)
+y: (86, 2)
+Load the integer-only TFLite model time:  0.0011391639709472656 secs
+Get input and output tensors time:  0.00011134147644042969 secs
+Prepare the input data time:  0.00021338462829589844 secs
+Output= [[-126  120]] Expected Output: [0. 1.]
+single feature data evaluation time (TM_PTQ_INT):  0.002588510513305664 secs

@@ -1,0 +1,10 @@
+Loading test data model time:  0.002212047576904297 secs
+X: (86, 26, 1)
+y: (86, 2)
+Load the TFLite model time:  0.011128902435302734 secs
+Get input and output tensors time:  0.0001418590545654297 secs
+Prepare the input data time:  7.486343383789062e-05 secs
+Output= [[0.0302185  0.97376037]] Expected Output: [0. 1.]
+single feature data evaluation time (TM):  0.0026123523712158203 secs
+
+

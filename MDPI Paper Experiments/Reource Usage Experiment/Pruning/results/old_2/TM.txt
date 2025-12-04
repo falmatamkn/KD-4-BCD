@@ -1,0 +1,30 @@
+Loading test data model time:  0.03728151321411133 secs
+X: (86, 26, 1)
+y: (86, 2)
+Load the TFLite model time:  0.8071410655975342 secs
+Get input and output tensors time:  0.00015878677368164062 secs
+Prepare the input data time:  8.845329284667969e-05 secs
+Output= [[0.0302185  0.97376037]] Expected Output: [0. 1.]
+single feature data evaluation time (TM):  0.022944927215576172 secs
+
+
+Loading test data model time:  0.002139568328857422 secs
+X: (86, 26, 1)
+y: (86, 2)
+Load the TFLite model time:  0.010711669921875 secs
+Get input and output tensors time:  0.00014591217041015625 secs
+Prepare the input data time:  5.6743621826171875e-05 secs
+Output= [[0.0302185  0.97376037]] Expected Output: [0. 1.]
+single feature data evaluation time (TM):  0.002716064453125 secs
+
+
+Loading test data model time:  0.0022063255310058594 secs
+X: (86, 26, 1)
+y: (86, 2)
+Load the TFLite model time:  0.01056671142578125 secs
+Get input and output tensors time:  0.00014209747314453125 secs
+Prepare the input data time:  7.390975952148438e-05 secs
+Output= [[0.0302185  0.97376037]] Expected Output: [0. 1.]
+single feature data evaluation time (TM):  0.0026962757110595703 secs
+
+
