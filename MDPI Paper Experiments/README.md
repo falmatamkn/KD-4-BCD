@@ -17,7 +17,7 @@ Both are required to fully reproduce the results reported in the paper.
 
 ## 📁 Repository Structure
 .
-├── Model Python/
+├── Model Python/<br>
 │ ├── KD/ # Knowledge Distillation training and evaluation
 │ ├── Pruning/ # Magnitude-based pruning experiments
 │ ├── PTQ/ # Post-Training Quantization (weight-only & integer-only)
@@ -140,4 +140,5 @@ note = {Submitted version}
 - The resource-usage tests replicate the conditions reported in Section 6 of the paper.
 
 ---
+
 
